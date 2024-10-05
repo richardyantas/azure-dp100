@@ -1,1 +1,9 @@
 # azure cli
+name: dp-100
+channels:
+  - default
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - -r requirements.txt
