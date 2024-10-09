@@ -1,4 +1,4 @@
-%%writefile src/diabetes-training.py
+# %%writefile src/diabetes-training.py
 # import libraries
 import pandas as pd
 import numpy as np
